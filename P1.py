@@ -211,9 +211,9 @@ def sort_posting():
 
 populate_president_addressess()
 compute_term_freq()
+compute_log_tf()
 compute_document_freq()
 compute_inverse_df()
-compute_log_tf()
 compute_tf_idf()
 normalize_tf_idf()
 construct_posting_list()
